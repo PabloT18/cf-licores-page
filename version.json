@@ -1,1 +1,6 @@
-{"app_name":"cf_licores","version":"1.0.0","build_number":"1","package_name":"cf_licores"}
+{
+    "app_name": "Licores",
+    "version": "1.0.0",
+    "build_number": "1",
+    "package_name": "cf_licores"
+}

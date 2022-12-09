@@ -1,11 +1,11 @@
 {
-  "name": "cf_licores",
-  "short_name": "cf_licores",
+  "name": "Licores",
+  "short_name": "Licores",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#hexcode",
   "theme_color": "#hexcode",
-  "description": "A new Flutter project.",
+  "description": "Tus licores favoritos",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
