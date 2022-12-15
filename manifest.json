@@ -1,11 +1,11 @@
 {
-  "name": "Licores",
-  "short_name": "Licores",
+  "name": "Súper Indispensables para Celebrar",
+  "short_name": "Súper Indispensables",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#hexcode",
   "theme_color": "#hexcode",
-  "description": "Tus licores favoritos",
+  "description": "Tus Súper Indispensables para Celebrar",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
